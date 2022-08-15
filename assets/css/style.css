@@ -7,7 +7,7 @@ body{
 .nav-button{
     color: white;
     background-color:  rgb(59, 2, 59);
-    margin: 30px;
+    margin: 25px 0 0 30px;
     font-size: medium;
     padding: 7px 5px;
     border-color: #ffffff;
@@ -20,6 +20,9 @@ body{
     padding: 0px;
     margin: 0px;
     display: block;
+}
+.nav-bar ul {
+    margin-right: 2rem;
 }
 .nav-item{
     list-style-type: none;
