@@ -166,7 +166,7 @@ h6{
 .fstperson-p{
     color: white;
     font-size: larger;
-    margin-left: 350px;
+    margin-left: 360px;
     margin-right: 230px;
     margin-top: -40px;
 }
@@ -185,7 +185,7 @@ h6{
 .sndperson-p{
     color: white;
     font-size: larger;
-    margin-left: 350px;
+    margin-left: 660px;
     margin-right: 40px;
     margin-top: -40px;
 }
@@ -226,7 +226,7 @@ margin-left: 350px;
 .fthperson-p{
     color: white;
     font-size: larger;
-    margin-left: 350px;
+    margin-left: 630px;
     margin-right: 40px;
     margin-top: -40px;
 }
@@ -264,6 +264,9 @@ margin-left: 350px;
     border-style: solid;
     border-radius: 30px;
     background-color: transparent;
+}
+.call{
+    margin-right: 15px;
 }
 hr{
     width: 100px;
