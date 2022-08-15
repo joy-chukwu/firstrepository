@@ -61,6 +61,21 @@ h2{
     background-repeat: no-repeat;
     background-size: cover;
 }
+.no-button{
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 50%;
+    font-size: 20px;
+    width: 60px;
+    height: 60px;
+    background-color: transparent;
+    border: 2px solid rgb(116, 8, 116);
+    color: rgb(116, 8, 116);
+}
+.nobutton-border{
+    margin-left: 70px;
+}
 h3{
     font-size: 50px;
     color: white;
@@ -231,16 +246,20 @@ margin-left: 350px;
     margin-left: 150px;
     width: 120px;
     height: 35px;
-    color: purple;
+    color: rgb(116, 44, 116);
     font-size: small;
     margin-bottom: 10px;
 }
 .button-border{
     border-width: 1.7px;
-    border-color: rgb(150, 12, 150);
+    border-color: rgb(116, 44, 116);
     border-style: solid;
     border-radius: 30px;
-    background-color: rgb(225, 128, 245);
+    background-color: transparent;
+}
+hr{
+    width: 100px;
+    display: inline-block;
 }
 .footer{
     margin-top: 180px;
