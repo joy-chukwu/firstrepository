@@ -7,7 +7,7 @@ body{
 .nav-button{
     color: white;
     background-color:  rgb(59, 2, 59);
-    margin: 25px 0 0 30px;
+    margin: 18px 0 0 30px;
     font-size: medium;
     padding: 7px 5px;
     border-color: #ffffff;
@@ -27,7 +27,7 @@ body{
 .nav-item{
     list-style-type: none;
     display: inline-block;
-    padding: 1em;
+    padding: 10px;
     font-size: medium;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
