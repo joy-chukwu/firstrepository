@@ -28,7 +28,8 @@ body{
     list-style-type: none;
     display: inline-block;
     padding: 10px;
-    font-size: medium;
+    margin-left: 10px;
+    font-size: small;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
